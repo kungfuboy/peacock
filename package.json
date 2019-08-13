@@ -1,0 +1,21 @@
+{
+  "name": "peacock-cli",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "pk": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "cross-spawn": "^6.0.5",
+    "dayjs": "^1.8.14",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.1.2",
+    "inquirer": "^6.2.1",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
