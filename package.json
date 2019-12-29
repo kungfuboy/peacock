@@ -12,7 +12,7 @@
     "cross-spawn": "^6.0.5",
     "dayjs": "^1.8.14",
     "download-git-repo": "^1.1.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.3.0",
     "inquirer": "^6.2.1",
     "log-symbols": "^2.2.0",
     "ora": "^3.0.0",
